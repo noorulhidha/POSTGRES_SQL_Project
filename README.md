@@ -1,4 +1,4 @@
-# POSTGRES_SQL_Project
+# Postgres_Sql_Project
 
 # 🛒 Zepto Product Inventory & Pricing Analysis using PostgreSQL
 
