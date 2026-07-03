@@ -15,8 +15,8 @@ The project demonstrates practical SQL skills including data cleaning, transform
 ```text
 Zepto-SQL-Project/
 │
-├── SQL-Zepto Project.sql      # Complete SQL script
 ├── dataset.csv                # Raw dataset (optional)
+├── SQL-Zepto Project.sql      # Complete SQL script
 ├── README.md                  # Project documentation
 ```
 
